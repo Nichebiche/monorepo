@@ -22,7 +22,7 @@
     "@cowprotocol/app-data": "^2.0.2",
     "@gnosis.pm/safe-apps-react-sdk": "^4.6.2",
     "@gnosis.pm/safe-apps-sdk": "^7.8.0",
-    "@hookform/resolvers": "3.3.2",
+    "@hookform/resolvers": "3.10.0",
     "@radix-ui/colors": "^3.0.0",
     "@radix-ui/react-accordion": "^1.1.2",
     "@radix-ui/react-checkbox": "^1.0.4",
